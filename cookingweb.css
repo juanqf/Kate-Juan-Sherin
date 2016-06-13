@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+
+
+    
+h1 {
+    color:#001a66;
+    text-align: center;
+}
+
+p {
+    font-family: Fjalla One;
+    font-size: 20px;
+    color:white;
+}
+
+body {
+    background-color: lightblue;
+}
+
+li {
+    color:#001a66;
+}
+h3 {
+    color:#001a66;
+}
+
+h5 {
+    color:#001a66;
+    
+}
